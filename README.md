@@ -1,4 +1,4 @@
-### Ola 👋
+### Hey 👋
 
 <!--
 **emanu3l-jose/emanu3l-jose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
